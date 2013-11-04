@@ -79,12 +79,12 @@
       }
 	  
 	  #map_canvas { float: left;
-	  width: 80% ;
-	  height: 80% ; }
+	  width: 95% ;
+	  }
 	 
-	 #cBoxes {float: left;
-	  width: 20% ;
-	  height:  80% } 
+	  #cBoxes {float: left;
+	  width: 50% ;
+	  } 
 	  
 	  #tables {float: center;
 	  width: 100% ;
